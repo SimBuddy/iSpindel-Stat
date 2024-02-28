@@ -23,7 +23,7 @@ You can get the required chips from Ali Express, eBay or Amazon.  I chose this o
 </picture>
 
 
-As for relays I chose the SRD-05 (5volts). These will do the job:
+As for relays I chose the SRD-05 (5 volts). These will do the job:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="relay.png">
@@ -32,7 +32,7 @@ As for relays I chose the SRD-05 (5volts). These will do the job:
 </picture>
 
 
-The chip needs, power, 5volts, so I chose this, due to it's tiny size.
+The chip needs, power, 5 volts, so I chose this, due to it's tiny size.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="xformer.png">
