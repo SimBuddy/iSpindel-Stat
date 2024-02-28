@@ -8,7 +8,7 @@ turn a heater on or off.  This could be an equarium-style heater, a heating pad,
 There is no need to provide your Brew-Spy account details, as your Brew-Spy account already publishes your existing iSpindel data, anonymously, but 
 accessible nonetheless.
 
-In short, you use an ESP32 chip, with a built-in display, a realy, and a small transformer, cram it all into a 2-way extension plug, then configure it to work with your iSpindel.
+In short, you use an ESP32 chip, with a built-in display, a relay, and a small transformer, cram it all into a 2-way extension plug, then configure it to work with your iSpindel.
 
 You can get the required chips from Ali Express, eBay or Amazon.  I chose this one:
 
