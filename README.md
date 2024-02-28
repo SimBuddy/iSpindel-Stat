@@ -38,6 +38,13 @@ The chip needs, power, so I chose this, due to it's tiny size.
  <img alt="Xformer" src="Xformer">
 </picture>
 
+All this needs to be crammed into a typical 2 or 3-gang extension block.  I got this one from eBay, and the black lools better, IMO.
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="xformer.png">
+ <source media="(prefers-color-scheme: light)" srcset="xformer.png">
+ <img alt="Xformer" src="Xformer">
+</picture>
 
 
  
