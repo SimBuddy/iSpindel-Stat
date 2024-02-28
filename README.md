@@ -9,8 +9,8 @@ There is no need to provide your Brew-SPy account details, as your Brew-Spy acco
 accessible nonetheless.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="esp.png">
+ <source media="(prefers-color-scheme: light)" srcset="esp.png">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
