@@ -48,5 +48,5 @@ All this needs to be crammed into a typical 2 or 3-gang extension block.  I got 
  <img alt="Plug" src="Plug">
 </picture>
 
-
+The left-hand socket will be used for powering the heater.  It will be up to you to open up and mount the chip, relay, and ppower unit in the space within.  It is beyond the scop of this instruction.  I cut a hole in it, and 3d-printed a nice cover plate.
  
