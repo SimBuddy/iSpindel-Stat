@@ -19,10 +19,19 @@ You can get the required chips from Ali Express, eBay or Amazon.  I chose this o
 </picture>
 
 As for relays, these will do the job:
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="relay.png">
  <source media="(prefers-color-scheme: light)" srcset="relay.png">
  <img alt="Relay" src="Relay">
+</picture>
+
+The chip needs, power, so I chose this, due to it's tiny size.
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="xformer.png">
+ <source media="(prefers-color-scheme: light)" srcset="xformer.png">
+ <img alt="Xformer" src="Xformer">
 </picture>
 
 
