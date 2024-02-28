@@ -3,7 +3,7 @@ Control of heaters using iSpindel devices and heaters or standard heat pads.
 
 To make use of this project, you first need an iSpindel, and with it, a cloud account with Brew-spy.  This is free.  
 The final device will read the data you already send via your iSpindel, and use the temperature component to decide to
-turn a heater on or off.  This could be an equarium-style heater, a heating pad, or a space heater.
+turn a heater on or off.  This could be an aquarium-style heater, a heating pad, or a space heater.  It will allow you to maintain an ideal brewing temperature of 20 Degrees C.
 
 You'll also need to know how to install and setup Arduino code platform and ESP32 libraries, and ensure that they work with the chosen display which comes on the ESP32 board.
 
