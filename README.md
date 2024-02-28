@@ -41,7 +41,7 @@ The chip needs power, 5 volts, so I chose this (picture shows 3.7 volt variant, 
  <img alt="Xformer" src="Xformer">
 </picture>
 
-All this needs to be crammed into a typical 2 or 3-gang extension block.  I got this one from eBay, and the black lools better, IMO.
+All this needs to be crammed into a typical 2 or 3-gang extension block.  I got this one from eBay, and the black looks better, IMO.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="plug.png">
