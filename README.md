@@ -33,7 +33,7 @@ As for relays I chose the SRD-05 (5 volts). These will do the job:
 
 
 
-The chip needs, power, 5 volts, so I chose this (picture shows 3.7 volt variant, but I got the 5 volt one), due to its tiny size.
+The chip needs power, 5 volts, so I chose this (picture shows 3.7 volt variant, but I got the 5 volt one), due to its tiny size.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="xformer.png">
