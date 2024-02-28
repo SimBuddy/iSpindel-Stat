@@ -15,14 +15,14 @@ You can get the required chips from Ali Express, eBay or Amazon.  I chose this o
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="esp.png">
  <source media="(prefers-color-scheme: light)" srcset="esp.png">
- <img alt="ESP" src="YOUR-DEFAULT-IMAGE">
+ <img alt="ESP" src="ESP">
 </picture>
 
 As for relays, these will do the job:
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="relay.png">
  <source media="(prefers-color-scheme: light)" srcset="relay.png">
- <img alt="Relay" src="YOUR-DEFAULT-IMAGE">
+ <img alt="Relay" src="Relay">
 </picture>
 
 
