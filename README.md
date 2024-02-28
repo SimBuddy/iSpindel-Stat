@@ -14,7 +14,7 @@ accessible nonetheless.
 
 In short, you use an ESP32 chip, with a built-in display, a relay, and a small transformer, cram it all into a 2-way extension plug, then configure it to work with your iSpindel.
 
-You can get the required chips from Ali Express, eBay or Amazon.  I chose this one:
+You can get the required chips and other parts from Ali Express, eBay or Amazon.  I chose this one:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="esp.png">
