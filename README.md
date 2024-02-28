@@ -23,7 +23,7 @@ You can get the required chips from Ali Express, eBay or Amazon.  I chose this o
 </picture>
 
 
-As for relays, these will do the job:
+As for relays I chose the SRD-05 (5volts). These will do the job:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="relay.png">
