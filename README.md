@@ -34,13 +34,12 @@ As for relays I chose the SRD-05 (5 volts). These will do the job:
 </picture>
 
 
-
 The chip needs power, 5 volts, so I chose this (picture shows 3.7 volt variant, but I got the 5 volt one), due to its tiny size.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="xformer.png">
- <source media="(prefers-color-scheme: light)" srcset="xformer.png">
- <img alt="Xformer" src="Xformer">
+ <source media="(prefers-color-scheme: dark)" srcset="psu.png">
+ <source media="(prefers-color-scheme: light)" srcset="psu.png">
+ <img alt="PSU" src="PSU">
 </picture>
 
 All this needs to be crammed into a typical 2 or 3-gang extension block.  I got this one from eBay, and the black looks better, IMO.
