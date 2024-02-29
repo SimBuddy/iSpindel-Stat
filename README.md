@@ -3,7 +3,7 @@ Control of heaters using iSpindel devices and heaters or standard heat pads. Typ
 
 To make use of this project, you first need an iSpindel, and with it, a cloud account with Brew-spy.  This is free.  
 
-The final device will read the data you already send via your iSpindel, and use the temperature component to decide to
+The final device will read the data you already send from your iSpindel, and use the temperature component to decide to
 turn a heater on or off.  This could be an aquarium-style heater, a heating pad, or a space heater.  
 It will allow you to maintain an ideal brewing temperature of 20 Degrees C.
 
@@ -33,7 +33,7 @@ As for relays I chose the SRD-05 (5 volts). These will do the job:
  <img alt="Relay" src="Relay">
 </picture>
 
-The chip needs power, 5 volts, so I chose this (picture shows 3.7 volt variant, but I got the 5 volt one), due to its tiny size.
+The chip needs power, 5 volts, so I chose this, due to its tiny size.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="psu.png">
