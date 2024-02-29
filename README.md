@@ -12,6 +12,8 @@ You'll also need to know how to install and setup Arduino code platform and ESP3
 There is no need to provide your Brew-Spy account details, as your Brew-Spy account already publishes your existing iSpindel data, anonymously, but 
 accessible nonetheless.
 
+I plan to add other services beyond Brew-Spy.
+
 In short, you use an ESP32 chip, with a built-in display, a relay, and a small transformer, cram it all into a 2-way extension plug, then configure it to work with your iSpindel.
 
 You can get the required chips and other parts from Ali Express, eBay or Amazon.  I chose this one:
