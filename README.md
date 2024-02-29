@@ -1,5 +1,5 @@
 # iSpindel-Stat
-Control of heaters using iSpindel devices and heaters or standard heat pads.
+Control of heaters using iSpindel devices and heaters or standard heat pads. Typically for use in home brerwing.
 
 To make use of this project, you first need an iSpindel, and with it, a cloud account with Brew-spy.  This is free.  
 
